@@ -2,8 +2,6 @@
 A decentralized social media application like Instagram, built on Ethereum Blockchain network
 
 
-<kbd> ![Decentragram](https://user-images.githubusercontent.com/108195614/227829342-a204c180-3a64-4419-81c6-da2ce17ae82f.png) </kbd>
-
 ## Tech Stack
 
 #### Frontend
